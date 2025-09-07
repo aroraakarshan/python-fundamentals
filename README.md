@@ -1,6 +1,6 @@
 # Python Fundamentals for VLSI Professionals 🚀
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org/)
 [![VLSI](https://img.shields.io/badge/VLSI-Automation-green)](https://en.wikipedia.org/wiki/Very_Large_Scale_Integration)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -56,13 +56,13 @@ This repository contains a complete Python fundamentals course tailored specific
 
 ## 📚 Course Structure
 
-### **🏗️ Foundation Modules (Chapters 1-4)**
+### **🏗️ Foundation Modules (Chapters 1-5)**
 Building essential Python knowledge and environment setup
 
-### **🔢 Data Mastery Modules (Chapters 5-10)**
+### **🔢 Data Mastery Modules (Chapters 6-11)**
 Deep dive into Python data types with VLSI applications
 
-### **⚙️ Advanced Modules (Chapters 11-13)**
+### **⚙️ Advanced Modules (Chapters 12-14)**
 Professional automation techniques and file processing
 
 ## 🏁 Getting Started
@@ -76,7 +76,7 @@ Professional automation techniques and file processing
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/arora/python-fundamentals.git
+git clone https://github.com/aroraakarshan/python-fundamentals.git
 cd python-fundamentals
 
 # Set up Python environment
@@ -112,11 +112,19 @@ jupyter notebook
 **Duration:** 60 minutes
 **Focus:** Core Python fundamentals
 - Variables, data types, and operators
-- Control structures and program flow
+- Basic input/output operations
 - Code organization and style
 - Interactive development techniques
 
-### **Chapter 4: First Python Script** 🎯
+### **Chapter 4: Control Structures - Conditionals and Loops** 🔄
+**Duration:** 90 minutes
+**Focus:** Program flow control and automation logic
+- Conditional statements (if, elif, else) for decision making
+- Loops (for, while) for repetitive processing
+- Loop control (break, continue, else) for advanced flow
+- VLSI applications: design rule checking, parameter sweeps, batch processing
+
+### **Chapter 5: First Python Script** 🎯
 **Duration:** 45 minutes
 **Focus:** Practical scripting for VLSI
 - Script structure and execution
@@ -124,7 +132,7 @@ jupyter notebook
 - File system operations
 - Basic VLSI file processing
 
-### **Chapter 5: Integer Mastery for VLSI** 🔢
+### **Chapter 6: Integer Mastery for VLSI** 🔢
 **Duration:** 75 minutes
 **Focus:** Numerical computation and bit manipulation
 - Binary, hexadecimal, and octal systems
@@ -132,7 +140,7 @@ jupyter notebook
 - Address calculations and memory mapping
 - Performance optimization techniques
 
-### **Chapter 6: String Mastery for VLSI** 📝
+### **Chapter 7: String Mastery for VLSI** 📝
 **Duration:** 90 minutes
 **Focus:** Text processing and parsing
 - Pattern matching with regular expressions
@@ -140,7 +148,7 @@ jupyter notebook
 - Log file parsing and analysis
 - Template-based code generation
 
-### **Chapter 7: List Mastery for VLSI** 📋
+### **Chapter 8: List Mastery for VLSI** 📋
 **Duration:** 85 minutes
 **Focus:** Sequential data handling
 - Signal lists and bus management
@@ -148,7 +156,7 @@ jupyter notebook
 - Hierarchical design navigation
 - Performance optimization for large datasets
 
-### **Chapter 8: Dictionary Mastery for VLSI** 🗂️
+### **Chapter 9: Dictionary Mastery for VLSI** 🗂️
 **Duration:** 80 minutes
 **Focus:** Key-value data management
 - Configuration management
@@ -156,7 +164,7 @@ jupyter notebook
 - Pin mapping and connectivity
 - Efficient data retrieval techniques
 
-### **Chapter 9: Tuple Mastery for VLSI** 🔗
+### **Chapter 10: Tuple Mastery for VLSI** 🔗
 **Duration:** 70 minutes
 **Focus:** Immutable data structures
 - Coordinate systems and placement
@@ -164,7 +172,7 @@ jupyter notebook
 - Design constraints and parameters
 - Memory-efficient data storage
 
-### **Chapter 10: Set Mastery for VLSI** 🎯
+### **Chapter 11: Set Mastery for VLSI** 🎯
 **Duration:** 75 minutes
 **Focus:** Unique data collections
 - Instance and net management
@@ -172,7 +180,7 @@ jupyter notebook
 - Optimization and filtering operations
 - Set-based analysis techniques
 
-### **Chapter 11: Functions and Modules for VLSI** ⚙️
+### **Chapter 12: Functions and Modules for VLSI** ⚙️
 **Duration:** 100 minutes
 **Focus:** Code organization and reusability
 - Function design patterns
@@ -180,7 +188,7 @@ jupyter notebook
 - Design flow automation
 - Library development for VLSI tools
 
-### **Chapter 12: File I/O Operations for VLSI** 📁
+### **Chapter 13: File I/O Operations for VLSI** 📁
 **Duration:** 95 minutes
 **Focus:** Essential file processing
 - Reading/writing design files (Verilog, SDC, etc.)
@@ -188,7 +196,7 @@ jupyter notebook
 - Report parsing and analysis
 - Error handling and data validation
 
-### **Chapter 13: Advanced File Processing for VLSI** 🔧
+### **Chapter 14: Advanced File Processing for VLSI** 🔧
 **Duration:** 120 minutes
 **Focus:** Professional file automation
 - Large file processing and streaming
@@ -363,7 +371,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Maintainer:** Akarshan Arora
 **LinkedIn:** [Akarshan Arora](www.linkedin.com/in/aroraakarshan)
-**GitHub:** [@yourusername](https://github.com/aroraakarshan)
+**GitHub:** [@aroraakarshan](https://github.com/aroraakarshan)
 
 ---
 
